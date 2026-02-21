@@ -9,9 +9,5 @@ void main() {
     friend = friend / 7;
     System.out.println(friend);
 
-
-
-
-
 }
 
